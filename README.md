@@ -74,10 +74,10 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
 
 ## Acknowledgements
 
 This application was built using the Flask web framework. Special thanks to the Flask community for their amazing work.
 
-For more information on Flask, visit the Flask documentation.
+For more information on Flask, visit the [Flask documentation](https://flask.palletsprojects.com/).
