@@ -72,10 +72,6 @@ Please refer to the code documentation and comments for more details on the requ
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open a pull request or submit an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
-
 ## Acknowledgements
 
 This application was built using the Flask web framework. Special thanks to the Flask community for their amazing work.
