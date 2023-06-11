@@ -1,3 +1,3 @@
 #!/bin/sh
-export FLASK_APP=./Back-CRUD-App/app.py
+export FLASK_APP=./Backend-CRUD-App/app.py
 pipenv run flask --debug run -h 0.0.0.0
